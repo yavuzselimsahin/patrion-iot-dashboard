@@ -247,7 +247,7 @@ export default function Home() {
         <Modal
           title={
             <div className="flex items-center">
-              <span>Patreon IoT Dashboard Login</span>
+              <span>Patrion IoT Dashboard Login</span>
             </div>
           }
           visible={isModalVisible}
